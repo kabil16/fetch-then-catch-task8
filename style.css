@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+.mycol{
+    display: inline-block;
+    position: relative;
+    border: 2px solid black;
+    border-radius: 0.8rem;
+    padding: 2px 3px 2px;
+    margin: 3px;
+}
+.ctitle{
+    text-align: center;
+}
+img{
+    height: 250px;
+    width: 200;
+}
+.card{
+    background: #74ebd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.myBtn{
+    background-color: white;
+}
